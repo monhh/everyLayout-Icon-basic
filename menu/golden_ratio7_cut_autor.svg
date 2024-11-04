@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<svg width="95" height="59" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" enable-background="new 0 0 100 100" version="1.1" xml:space="preserve">
+ <g class="layer">
+  <title>Layer 1</title>
+  <g id="svg_1">
+   <g id="svg_2">
+    <path d="m95,59l-95,0l0,-59l95,0l0,59zm-94,-1l93,0l0,-57l-93,0l0,57z" id="svg_3"/>
+   </g>
+   <g id="svg_4">
+    <rect height="58" id="svg_5" width="1" x="58" y="0"/>
+   </g>
+   <g id="svg_6">
+    <rect height="1" id="svg_7" width="36" x="58" y="36"/>
+   </g>
+   <g id="svg_8">
+    <rect height="21" id="svg_9" width="1" x="73" y="37"/>
+   </g>
+   <g id="svg_10">
+    <rect height="1" id="svg_11" width="16" x="58" y="44"/>
+   </g>
+   <g id="svg_12">
+    <rect height="8" id="svg_13" width="1" x="68" y="37"/>
+   </g>
+   <g id="svg_14">
+    <rect height="1" id="svg_15" width="4" x="69" y="41"/>
+   </g>
+  </g>
+ </g>
+</svg>
